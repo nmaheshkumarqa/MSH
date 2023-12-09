@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmaheshkumarqa" alt="nmaheshkumarqa" /></a> </p>
 
-- 🔭 I’m currently working on **HECHO**
+- 🔭 I’m currently working on **DEZARVO TECH, Coimbatore, TamilNadu, India**
 
 - 🌱 I’m currently learning **Frameworks & Docker**
 
